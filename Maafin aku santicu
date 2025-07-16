@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <title>Untuk Santii, Dari Aldi</title>
+  <style>
+    body {
+      background-color: #fdf7f0;
+      color: #333;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 2rem;
+    }
+    .sticker {
+      width: 200px;
+      margin: 20px auto;
+      display: block;
+    }
+    .text {
+      margin: 1.5rem 0;
+      line-height: 1.5;
+      font-size: 1.2rem;
+    }
+    audio {
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Untuk Santii, Dari Aldi</h1>
+
+  <img
+    class="sticker"
+    src="https://i.imgur.com/EsMzU1s.jpg"
+    alt="Stiker sedih romantis"
+  />
+
+  <div class="text">
+    <p>Hai Santii...</p>
+    <p>Aku sadar aku salah…<br/>
+    Aku lupa diri, aku nyakitin kamu tanpa mikir panjang.</p>
+    <p>Sekarang aku nyesel banget… dan semua kata maaf pun rasanya belum cukup.</p>
+    <p>Tapi dari hati aku yang paling dalam, aku <strong>janji berubah</strong>.<br/>
+    Bukan karena dipaksa, tapi karena aku sadar — aku nggak mau kehilangan kamu.</p>
+    <p>Tolong beri aku kesempatan buat buktiin semuanya.</p>
+    <p><em>Dari Aldi yang masih sayang, dan selalu akan.</em></p>
+  </div>
+
+  <audio controls autoplay>
+    <source src="https://files.catbox.moe/d9vut6.mp3" type="audio/mpeg" />
+    Musik tidak bisa diputar di browser ini.
+  </audio>
+
+</body>
+</html>
